@@ -1,0 +1,4 @@
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingConsole\FileProcessorUsingConsole\bin\Debug\FileProcessorUsingConsole.exe
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingConsole\FileProcessorUsingConsole\bin\Debug\FileProcessorUsingConsole.pdb
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingConsole\FileProcessorUsingConsole\obj\x86\Debug\FileProcessorUsingConsole.exe
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingConsole\FileProcessorUsingConsole\obj\x86\Debug\FileProcessorUsingConsole.pdb
